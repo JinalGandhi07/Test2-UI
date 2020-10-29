@@ -35,7 +35,7 @@
                     android:layout_height="150dp"
                     android:id="@+id/cimage1"
                     android:layout_margin="10dp"
-                    android:src="@drawable/cone"
+                    android:src="@drawable/ctwo"
                     />
 
                 <LinearLayout
@@ -105,7 +105,7 @@
                     android:layout_height="150dp"
                     android:id="@+id/cimage2"
                     android:layout_margin="10dp"
-                    android:src="@drawable/ctwo"
+                    android:src="@drawable/cone"
                     />
 
                 <LinearLayout
@@ -179,7 +179,7 @@
                     android:layout_height="150dp"
                     android:id="@+id/cimage3"
                     android:layout_margin="10dp"
-                    android:src="@drawable/cthree"
+                    android:src="@drawable/cfour"
                     />
 
                 <LinearLayout
@@ -252,7 +252,7 @@
                     android:layout_height="150dp"
                     android:id="@+id/cimage4"
                     android:layout_margin="10dp"
-                    android:src="@drawable/cfour"
+                    android:src="@drawable/cthree"
                     />
 
                 <LinearLayout
@@ -398,7 +398,7 @@
                     android:layout_height="150dp"
                     android:id="@+id/cimage6"
                     android:layout_margin="10dp"
-                    android:src="@drawable/cfive"
+                    android:src="@drawable/csix"
                     />
 
                 <LinearLayout
@@ -440,7 +440,7 @@
                         android:textColor="#000000"
                         android:layout_margin="15dp"
                         android:layout_gravity="center"
-                        android:text="Bro, Done every Work "
+                        android:text="Bro, Done every Work! "
                         />
 
                 </LinearLayout>
